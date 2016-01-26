@@ -1,0 +1,36 @@
+body {
+ background-image: url("../img/fondo.jpg")
+}
+h1 {
+  text-align: center;
+  font-family: Georgia, Cambria, Times, "Times New Roman";
+}
+p {
+  font-family: Georgia, Cambria, Times, "Times New Roman";
+}
+.imagen {
+  overflow: hidden;
+  width: 40%;
+  text-align: justify;
+}
+
+.derecha {
+  float: right;
+  width: 40%;
+}
+
+.texto {
+  overflow: hidden;
+  text-align: center;
+}
+
+.izquierda {
+  margin-top: 20px;
+  float: left;
+  width: 50%;
+  text-align: justify;
+}
+
+.contenido {
+  overflow: hidden;
+}
